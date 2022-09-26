@@ -152,6 +152,6 @@ color: var(--cinza-secundaria);
 }
 
 .lista__link a:active {
-    color: purple
+    color: orange;
 }
 
